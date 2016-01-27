@@ -6,6 +6,7 @@ gem 'rails', '4.2.3'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'stripe'
 # Use sqlite3 as the database for Active Record
 
 # Use SCSS for stylesheets
